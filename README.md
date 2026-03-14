@@ -6,7 +6,10 @@
 
 *Evidence-grounded risk engine and strict safety posture for pre-reflective exploration*
 
-**Live demo:** [www.entheogen.newpsychonaut.com](https://www.entheogen.newpsychonaut.com/) · [entheogen.azurewebsites.net](https://entheogen.azurewebsites.net)
+**Live demo:** 
+[www.entheogen.newpsychonaut.com](https://www.entheogen.newpsychonaut.com/) 
+· 
+[entheogen.azurewebsites.net](https://entheogen.azurewebsites.net)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
@@ -16,17 +19,25 @@
 
 ---
 
-## What it is
+## What is EntheoGen?
 
-EntheoGen is a substance interaction guidance app focussed on intentional use of psychedelics. It will estimate the effects of mixing the two substances entwered into the drop-down menus. EntheoGen's data model is mapped specifically to sacramental substances often used in psychedelic ceremonies, medication classes, and commonly used consciousness-altering substances.
+EntheoGen is a substance interaction guidance app focussed on intentional use of psychedelics. 
+
+The web application estimates the effects of mixing the two substances entered into the drop-down menus. 
+
+Data is personal and not stored remotely (i.e., not recorded or held by us). 
+
+EntheoGen's data model is mapped specifically to sacramental substances often used in psychedelic ceremonies, medication classes, and commonly used consciousness-altering substances.
 
 ## Help! Please contribute your entheogenic knowledge
 
 Unlike purely generative AI tools, the interaction output here is intended to strictly evidence-grounded and rule-based. 
 
-EntheoGen is trained on peer-reviewed academic literature. However study is light especially in areas such as interactions between less commonly used entheogenic substances.
+EntheoGen is trained on peer-reviewed academic literature. 
 
-Please "beta test" EntheoGen and leave your comments in our <Discussions>!
+However, study is light especially in areas such as interactions between less commonly used entheogenic substances.
+
+# Beta test EntheoGen and leave your comments in our [<Discussions>](https://github.com/chaosste/EntheoGen/discussions/1)!
 
 It attempts to offer explicit confidence ratings and transparent source traceability, (although it can currently refer directly to source note pdfs we compiled, and requires tweaking). 
 
@@ -52,7 +63,6 @@ Extended explanations provide database detail for beta test analysis.
 |-------|-----------|
 | Frontend | React + TypeScript + Vite |
 | Risk Engine | Deterministic rule-based assessor |
-| AI | Google Gemini API (explanatory summarization only) |
 | Design | Tailwind CSS, Lucide Icons |
 | Deployment | Azure App Service (Linux) |
 
