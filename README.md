@@ -19,13 +19,17 @@
 
 ---
 
+**Please note:** 
+
+EntheoGen is currently in beta and is not intended to provide clinical, medical advice. Consult your doctor for advice on mixing substances.
+
 ## What is EntheoGen?
 
 EntheoGen is a substance interaction guidance app focussed on intentional use of psychedelics. 
 
 The web application estimates the effects of mixing the two substances entered into the drop-down menus. 
 
-Data is personal and not stored remotely (i.e., not recorded or held by us). 
+Data is personal and not stored remotely (i.e., not recorded or held by us).
 
 EntheoGen's data model is mapped specifically to sacramental substances often used in psychedelic ceremonies, medication classes, and commonly used consciousness-altering substances.
 
@@ -75,10 +79,6 @@ cd EntheoGen
 
 # Install dependencies
 npm install
-
-# Configure Gemini API key for explanatory text features
-cp .env.example .env.local
-# set GEMINI_API_KEY in .env.local
 
 # Run development server
 npm run dev
