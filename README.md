@@ -13,7 +13,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
-<img src="docs/assets/entheogen-release-demo.gif" width="900" alt="EntheoGen release demo" />
+<img src="<img src="./entheogen-1.gif" width="900" alt="EntheoGen release demo" />" width="900" alt="EntheoGen release demo" />
 
 </div>
 
