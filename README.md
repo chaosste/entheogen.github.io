@@ -19,7 +19,7 @@
 
 ---
 
-**Please note:** 
+## Please note:
 
 EntheoGen is currently in beta and is not intended to provide clinical, medical advice. Consult your doctor for advice on mixing substances.
 
