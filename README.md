@@ -33,7 +33,7 @@ Data is personal and not stored remotely (i.e., not recorded or held by us).
 
 EntheoGen's data model is mapped specifically to sacramental substances often used in psychedelic ceremonies, medication classes, and commonly used consciousness-altering substances.
 
-## Help! Please contribute your entheogenic knowledge
+## We need YOUR entheogenic knowledge
 
 Unlike purely generative AI tools, the interaction output here is intended to strictly evidence-grounded and rule-based. 
 
